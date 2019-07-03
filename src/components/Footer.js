@@ -30,19 +30,30 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
-                        About
+                      <a className="navbar-item" href="https://www.fluentup.com/">
+                        About Us
+                      </a>
+                    </li>
+                    <li>
+                      <a className="navbar-item" href="https://www.fluentup.com/why-join">
+                        Why Join
+                      </a>
+                    </li>  
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-4">
+                <section>
+                  <ul className="menu-list">
+                    <li>
+                      <Link className="navbar-item" to="/blog">
+                        Latest Stories
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
+                      <a className="navbar-item" href="https://fluentup.com/contact-us">
+                        Contact
+                      </a>
                     </li>
                     <li>
                       <a
@@ -57,24 +68,8 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/fluentup">
                   <img
                     src={facebook}
                     alt="Facebook"
@@ -89,7 +84,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/fluentup/">
                   <img
                     src={instagram}
                     alt="Instagram"
