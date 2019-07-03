@@ -1,4 +1,4 @@
-# FluentUp Blog
+# [FluentUp Blog](https://www.blog.fluentup.com)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a6fad42f-298a-47a1-81d1-0ffb06d904b9/deploy-status)](https://app.netlify.com/sites/gatsby-blog-fluentup/deploys)
 
