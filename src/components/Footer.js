@@ -30,30 +30,15 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
-                        About
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
+                      <a className="navbar-item" href="https://www.fluentup.com/">
+                        About Us
                       </a>
                     </li>
+                    <li>
+                      <a className="navbar-item" href="https://www.fluentup.com/why-join">
+                        Why Join
+                      </a>
+                    </li>  
                   </ul>
                 </section>
               </div>
@@ -66,9 +51,19 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
+                      <a className="navbar-item" href="https://fluentup.com/contact-us">
                         Contact
-                      </Link>
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        className="navbar-item"
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Admin
+                      </a>
                     </li>
                   </ul>
                 </section>
