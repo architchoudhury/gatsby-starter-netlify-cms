@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Shred The Usual Excuses and Believe In Your Language Learning Journey
-date: 2019-07-04T07:05:43.960Z
+date: 2017-07-06T07:05:00.000Z
 description: You feel the drive but struggle to make progress?
 featuredpost: false
 featuredimage: /img/r1.jpeg
