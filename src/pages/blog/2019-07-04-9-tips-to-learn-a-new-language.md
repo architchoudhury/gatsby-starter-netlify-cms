@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 9 Tips to Learn a New Language
-date: 2019-07-04T07:11:47.297Z
+date: 2017-07-04T07:11:00.000Z
 description: >-
   Want to learn a new language but struggle to find good ways to complement the
   learning process?
