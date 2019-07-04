@@ -9,11 +9,13 @@ description: >-
   study, there are some ways you can speed up the learning process and even have
   fun along the way.
 featuredpost: true
-featuredimage: /img/girl-2771936_1920.jpg
+featuredimage: /img/learn-3653430_1920.jpg
 tags:
-  - tutoring
-  - accuracy
-  - ''
+  - Language Learning
+  - Growth
+  - Tips
+  - Words
+  - Language
 ---
 > Want to learn a new language but feel daunted or unsure where to begin? You don't need any special talent or a "language gene," says Lýdia Machová.
 
