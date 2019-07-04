@@ -3,8 +3,9 @@ var proxy = require('http-proxy-middleware')
 module.exports = {
   siteMetadata: {
     title: 'FluentUp | Blog',
+    siteUrl: 'https://blog.fluentup.com',
     description:
-      'FluentUp is an online language learning marketplace that connects accredited language schools with aspiring students from all over the world.',
+      'FluentUp is a language learning platform that helps students find personalised live online language lessons offered by the best language schools around the world. Simply tell us your learning needs to get matched to the best teachers for you and join our community of language lovers.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
