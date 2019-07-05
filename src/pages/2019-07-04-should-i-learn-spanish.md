@@ -6,7 +6,7 @@ description: >-
   Language learning is all about motivation and motivation means finding your
   “Why”. A practical answer to this “Why” when it comes to Spanish, is that it
   is quickly becoming the second most widely spoken language in the world.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/s1.jpeg
 tags:
   - Language
