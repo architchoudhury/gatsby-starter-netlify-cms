@@ -8,7 +8,7 @@ description: >-
   memorizing sentences. And while there's certainly no substitute for diligent
   study, there are some ways you can speed up the learning process and even have
   fun along the way.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/learn-3653430_1920.jpg
 tags:
   - Language Learning
