@@ -5,7 +5,7 @@ module.exports = {
     title: 'FluentUp | Blog',
     siteUrl: 'https://blog.fluentup.com',
     description:
-      'FluentUp is a language learning platform that helps students find personalised live online language lessons offered by the best language schools around the world. Simply tell us your learning needs to get matched to the best teachers for you and join our community of language lovers.',
+      'FluentUp is a language learning platform that helps students find personalised live online language lessons offered by the best language schools around the world.',
   },
   plugins: [
     'gatsby-plugin-sitemap',
