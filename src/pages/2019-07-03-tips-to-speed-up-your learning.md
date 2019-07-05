@@ -23,9 +23,9 @@ Lydia Machova talks about her practices of learning a language. She says, 
 
 > "We have no shortcut to learning languages".
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/lydia_machova_the_secrets_of_learning_a_new_language" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-
 But we do have certain techniques and ways to learn a new language.
+
+<div><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/lydia_machova_the_secrets_of_learning_a_new_language" width="100%" height="auto" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 **1. Start with the 100 most common words:**
 
@@ -77,7 +77,7 @@ Fear is a barrier to learning - and an unnecessary one at that. If you're ho
 
 One of the best things you can do in the initial stages is not to try to get everything perfect, but to _embrace making mistakes._
 
-**_5. Value Fluency over Accuracy:_**
+_**5. Value Fluency over Accuracy:**_
 
 Fluency is the ability to express oneself easily and articulately. It means using the language smoothly in real time.
 
