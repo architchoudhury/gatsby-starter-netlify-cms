@@ -34,6 +34,15 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        // Setting a color is optional.
+        color: '#ef4d3c',
+        // Disable the loading spinner.
+        showSpinner: false,
+      },
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
