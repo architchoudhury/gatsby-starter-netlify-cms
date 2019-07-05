@@ -8,7 +8,6 @@ module.exports = {
       'FluentUp is a language learning platform that helps students find personalised live online language lessons offered by the best language schools around the world.',
   },
   plugins: [
-    'gatsby-plugin-netlify',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-react-helmet',
