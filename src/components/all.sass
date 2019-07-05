@@ -9,6 +9,13 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 
+// html
+//   background: url(../img/logo-gradient.png) no-repeat center center fixed; 
+//   -webkit-background-size: cover;
+//   -moz-background-size: cover;
+//   -o-background-size: cover;
+//   background-size: cover;
+
 *
   font-family: 'Montserrat', sans-serif
 // nav
@@ -32,14 +39,22 @@ $black: #2b2523
     margin-bottom: 1.5rem
     margin-top: 0
 
+.full-container
+  background: #ff416c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom right, #ef4d3c, #ef1956); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom right, #ef4d3c, #ef1956); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  overflow: auto
+
+
+
 // Helper Classes
 .full-width-image-container
   width: 100vw
-  height: 200px
+  height: 120px
   position: relative
   left: 50%
   right: 50%
-  margin: 2em -50vw
+  margin: 0em -50vw
   background-size: cover
   background-position: bottom
   display: flex
@@ -48,7 +63,7 @@ $black: #2b2523
 
 .full-width-image
     width: 100vw
-    height: 200px
+    height: 120px
     background-size: cover
     background-position: bottom
     display: flex
@@ -164,6 +179,11 @@ body
 
 .menu
   font-size: 1.25rem
+
+.section
+  background-color: white
+  border-radius: 10px
+  margin: 0px 1.5em 1.5em 1.5em
 
 // responsiveness
 +tablet-only
