@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Tips to learn English with movies
-date: 2017-11-06T07:01:00.000Z
+date: 2017-11-02T07:01:00.000Z
 description: Are you ready to learn English in an easy way?
 featuredpost: false
 featuredimage: /img/0_m8nftcb5z8zbouhv.jpg
