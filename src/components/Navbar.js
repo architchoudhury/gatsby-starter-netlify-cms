@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/logo-gradient.svg'
+import logo from '../img/logo-gradient.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <a href="https://www.fluentup.com/" className="navbar-item" title="Logo">
-              <img src={logo} alt="FluentUp" style={{ height: '80px' }} />
+              <img src={logo} alt="FluentUp"/>
             </a>
             {/* Hamburger menu */}
             <div
@@ -63,10 +63,10 @@ const Navbar = class extends React.Component {
                 About
               </Link> */}
               <Link className="navbar-item" to="/">
-                Posts
+                POSTS
               </Link>
               <Link className="navbar-item" to="/tags">
-                Tags
+                TAGS
               </Link>
               {/* <Link className="navbar-item" to="/contact">
                 Contact

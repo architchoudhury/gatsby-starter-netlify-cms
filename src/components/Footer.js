@@ -4,8 +4,8 @@ import { Link } from 'gatsby'
 import logo from '../img/logo-gradient.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import linkedin from '../img/social/linkedin.svg'
+import medium from '../img/social/medium.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -76,11 +76,11 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="medium" href="https://medium.com/@fluentup">
                   <img
                     className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
+                    src={medium}
+                    alt="Medium"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
@@ -91,10 +91,10 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="linkedin" href="https://www.linkedin.com/company/fluentup/">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={linkedin}
+                    alt="LinkedIn"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
