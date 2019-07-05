@@ -5,3 +5,4 @@ http://gatsby-blog-fluentup.netlify.com/* https://blog.fluentup.com/:splat 301!
 http://www.blog.fluentup.com/* https://blog.fluentup.com/:splat 301!
 https://gatsby-blog-fluentup.netlify.com/* https://blog.fluentup.com/:splat 301!
 https://www.blog.fluentup.com/* https://blog.fluentup.com/:splat 301!
+http://blog.fluentup.com/* https://blog.fluentup.com/:splat 301!
