@@ -79,6 +79,20 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'FluentUp | Blog',
+        short_name: 'FluentUp Blog',
+        description: 'FluentUp is a language learning platform that helps students find personalised live online language lessons offered by the best language schools around the world.',
+        icon: 'src/img/icon.png',
+        start_url: '/',
+        background_color: '#ffffff',
+        theme_color: '#ef4d3c',
+        display: 'standalone',
+      },
+    },
+    'gatsby-plugin-offline',
     // {
     //   resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
     //   options: {
