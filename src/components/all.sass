@@ -127,15 +127,18 @@ $menu-label-color: $white-ter
     display: inline
 
 // blog roll
+.blog-list-item
+  height: 100%
 .blog-list-item.is-featured
   background-color: #d6400033;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
+  width: 100%;
   margin: 0 1.5em 0 0;
-
+.blog-list-item .post-meta
+  width: 100%;
 
 @import "~bulma"
 
@@ -185,6 +188,7 @@ body
 
 .tagpage li 
   padding-right: 0px !important
+  width: 100%
 
 .columns
   margin: 0px
