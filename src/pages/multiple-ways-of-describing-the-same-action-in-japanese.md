@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Multiple ways of describing the same action in Japanese
-date: 2019-07-09T04:55:04.092Z
+date: 2018-07-26T04:55:00.000Z
 description: 'In English, to describe the simplest of actions, we have one word for all. '
 featuredpost: false
 featuredimage: /img/0_ym5wyoezwvegxury.jpg
