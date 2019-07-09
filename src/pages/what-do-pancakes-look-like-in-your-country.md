@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What do pancakes look like in your country?
-date: 2018-07-07T03:54:00.000Z
+date: 2018-08-06T16:00:00.000Z
 description: >-
   When you hear the word pancake, what’s the first image that comes to mind? I
   would imagine it to be a fried, circular piece of dough accompanied by butter
