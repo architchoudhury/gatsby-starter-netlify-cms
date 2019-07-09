@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Languages that are not strictly languages
-date: 2018-07-21T04:12:00.000Z
+date: 2018-08-21T04:12:00.000Z
 description: 'Strange, but it''s true!'
 featuredpost: false
 featuredimage: /img/0_ax_r3lguyyqzj4-t.jpg
