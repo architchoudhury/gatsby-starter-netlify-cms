@@ -15,8 +15,6 @@ tags:
   - English
   - Pareto Principle
 ---
-
-
 It is helpful to so many language learners as it enables you to take a moment to step back and see the learning process from a higher level. A large task is achieved step by step, so it is useful to break down the overall task into many smaller, focused parts that you can tackle one by one. This might sound obvious, but it is a simple hack often ignored.
 
 ![](/img/1_et7wr0b120cn9yqrmm98pg.jpeg)
@@ -35,15 +33,14 @@ It is helpful to so many language learners as it enables you to take a moment to
 
 <iframe width="100%" height="393" src="https://www.youtube.com/embed/lwh-m_XcIP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
-
-**Nowadays, the most commonly asked question is _how many words do we need to learn?_**
 
 
+<br><br>
+
+**Nowadays, the most commonly asked question is _how many words do we need to learn?_
+**
 
 There is no real rule of thumb. What is important is that you start by learning the most common words related to your key areas of interest. Once you’ve mastered those, you can expand to other areas.
-
-
 
 There are over 170,000 words in the English language, according to the _Oxford English dictionary_. However, the most common 1,000 words make up 84% of all spoken dialogue. The next 1,000 words only add 6% in additional coverage (90% total). So by learning just 0.5% of the English language (1,000 out of 170,000 words), one will be able to speak and understand it in the vast majority of situations.
 
