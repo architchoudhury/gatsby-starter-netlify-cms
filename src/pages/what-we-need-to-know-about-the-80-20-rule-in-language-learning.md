@@ -37,8 +37,7 @@ It is helpful to so many language learners as it enables you to take a moment to
 
 <br><br>
 
-**Nowadays, the most commonly asked question is _how many words do we need to learn?_
-**
+<b>Nowadays, the most commonly asked question is _how many words do we need to learn?</b>_
 
 There is no real rule of thumb. What is important is that you start by learning the most common words related to your key areas of interest. Once you’ve mastered those, you can expand to other areas.
 
