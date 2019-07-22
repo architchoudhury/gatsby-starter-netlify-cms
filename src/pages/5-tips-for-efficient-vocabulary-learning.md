@@ -18,8 +18,9 @@ tags:
   - Learning Learning
   - Vocabulary
 ---
-1. ![](/img/0_8zzzyobsuxz0zlxg.jpg)
-   Back-to-basics
+![](/img/0_8zzzyobsuxz0zlxg.jpg)
+
+1. Back-to-basics
 
 One of the most common ways to learn vocabulary is to look it up in a dictionary for the meaning, correct spelling, and pronunciation. After checking the official definition of the vocab, it is better to connect the new word to your memory and create your own definition as most words don’t have a perfect translation of their meaning. Learning the IPA of a word is also critical in the very beginning to learn vocabulary efficiently. Pronunciation of words may vary from time to time depending on their parts of speech, its meaning, and their landing in the sentence. Thus, knowing the correct pronunciation avoids the need to go back and correct bad pronunciation habits.
 
